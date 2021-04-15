@@ -1,2 +1,2 @@
-# generative.art
+# Generative Art
 Opdracht: Vorm en detail
