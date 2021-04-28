@@ -13,5 +13,11 @@ Ik kon heel lang niet op een idee komen voor mijn generative kunstwerk. Ik vond 
 ## Ideageneration
 [CamScanner 04-28-2021 07.51.pdf](https://github.com/lunamaryse/generative.art/files/6389367/CamScanner.04-28-2021.07.51.pdf)
 
+## Feedback Danny 28-04
+- Het concept is goed (pieken en dalen van COVID), de uitwerking kan wat beter
+- Maak het abstracter (COVID is geen lief bolletje, kijk naar andere vormen en/of bewegingen
+- Gebruik de echte corona cijferes om pieken en dalen te weergeven
+- Maak een lijstje met taken, zodat je niet het overzicht verliest
+
 ## Making
 Nu ik een idee heb moet ik het kunstwerk natuurlijk gaan maken. Dankzij de p5.js website en de filmpjes van Daniel Shiffman ben ik iets wijzer geworden over p5.js. De komende twee weken moet ik hard aan de bak om mijn kunstwerk af te krijgen. Tijdens dit proces wil ik mezelf uitdagen om het beste uit mezelf te halen en mezelf te verbazen. Ik heb er zin in!
