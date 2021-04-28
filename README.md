@@ -10,5 +10,6 @@ Bij mij duurt het "processen" altijd wat langer bij dit soort vakken ;). Ik heb 
 ## Randomness
 Ik kon heel lang niet op een idee komen voor mijn generative kunstwerk. Ik vond het lastig om iets te bedenken dat te maken heeft met de new intimacy en met mezelf. Het idee moest natuurlijk niet te ingewikkeld zijn (zoals ik al zei ben ik namelijk geen ster in code schrijven), maar wel creatief een uitdagend.
 
-## Idea
+## Ideageneration
 
+[CamScanner 04-28-2021 07.51.pdf](https://github.com/lunamaryse/generative.art/files/6389367/CamScanner.04-28-2021.07.51.pdf)
