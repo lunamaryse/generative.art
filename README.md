@@ -11,5 +11,7 @@ Bij mij duurt het "processen" altijd wat langer bij dit soort vakken ;). Ik heb 
 Ik kon heel lang niet op een idee komen voor mijn generative kunstwerk. Ik vond het lastig om iets te bedenken dat te maken heeft met de new intimacy en met mezelf. Het idee moest natuurlijk niet te ingewikkeld zijn (zoals ik al zei ben ik namelijk geen ster in code schrijven), maar wel creatief een uitdagend.
 
 ## Ideageneration
-
 [CamScanner 04-28-2021 07.51.pdf](https://github.com/lunamaryse/generative.art/files/6389367/CamScanner.04-28-2021.07.51.pdf)
+
+## Making
+Nu ik een idee heb moet ik het kunstwerk natuurlijk gaan maken. Dankzij de p5.js website en de filmpjes van Daniel Shiffman ben ik iets wijzer geworden over p5.js. De komende twee weken moet ik hard aan de bak om mijn kunstwerk af te krijgen. Tijdens dit proces wil ik mezelf uitdagen om het beste uit mezelf te halen en mezelf te verbazen. Ik heb er zin in!
