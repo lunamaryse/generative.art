@@ -2,7 +2,7 @@
 Opdracht: Vorm en detail
 
 ## Getting started
-Ik ben (natuurlijk) begonnen met de getting started guide. Ik heb mijn GitHub repository ingedeeld en mijn account een beetje bijgewerkt, er stond namelijk nog amper wat in. Ik heb de eerste paar filmpjes van Daniel Shiffman bekeken, om erachter te komen wat precies mogelijk is met p5.js.
+Ik ben (natuurlijk) begonnen met de getting started guide. Ik heb mijn GitHub repository ingedeeld en mijn account een beetje bijgewerkt, er stond namelijk nog amper wat in. Ik heb de eerste paar filmpjes van Daniel Shiffman bekeken, om erachter te komen wat precies mogelijk is met p5.js en ik heb VScode geïnstalleerd (voorheen werkte ik met brackets).
 
 ## Processing
 Bij mij duurt het "processen" altijd wat langer bij dit soort vakken ;). Ik heb nog al moeite met coderen en heb eerder de neiging om weg te rennen dan er gewoon aan te beginnen. Tijdens de lessen ben ik beter gaan begrijpen wat generative art inhoudt en hoe je bepaalde acties uitvoert binnen p5.js. Ook heb ik tijdens de les inspiratie opgedaan door te luisteren naar klasgenoten en hun ideeën. Bij mij begon het kwartje helaas nog niet helemaal te vallen. 
