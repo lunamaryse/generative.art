@@ -19,11 +19,20 @@ Ik kon heel lang niet op een idee komen voor mijn generative kunstwerk. Ik vond 
 - Gebruik de echte corona cijferes om pieken en dalen te weergeven
 - Maak een lijstje met taken, zodat je niet het overzicht verliest
 
-## Making
-Nu ik een idee heb moet ik het kunstwerk natuurlijk gaan maken. Dankzij de p5.js website en de filmpjes van Daniel Shiffman ben ik iets wijzer geworden over p5.js. De komende twee weken moet ik hard aan de bak om mijn kunstwerk af te krijgen. Tijdens dit proces wil ik mezelf uitdagen om het beste uit mezelf te halen en mezelf te verbazen. Ik heb er zin in!
-
 ## To do list
 - Kunstwerk een abstracte vorm geven
 - Takenlijstje maken
 - 1e versie van kunstwerk maken
 - Feedback vragen aan medestudenten
+
+## Nieuwe concept
+Ik heb de tabel met de besmettingscijfers gedownload op de website van het RIVM. Deze cijfers wil ik als een soort tabel gaan weergeven in mijn kunstwerk. Als je op een besmettingscijfer klikt, bewegen vormen (afhankelijk van de hoogte van het cijfer) naar elkaar toe of van elkaar af. Deze vormen moeten mensen voorstellen. Als de besmettingen hoog zijn komen de vormen dichter bij elkaar te staan. Mensen houden minder rekening met social distancing, daarom zijn de besmettingen hoger. Als de besmettingen laag zijn, is er meer afstand tussen de vormen. Mensen houden zich aan de coronaregels en houden afstand, hierdoor zijn de besmettingen lager. 
+
+## Waarom heeft dit met mij te maken?
+...
+
+## Takenlijst
+
+
+## Making
+Ik heb erg veel aan de p5.js website (examples) en de filmpjes van Daniel Shiffman. Ik heb meerdere examples bekeken en getest om te leren begrijpen hoe P5.js werkt. Aan de hand van examples, veel googelen en testen heb ik mijn kunstwerk in elkaar proberen te zetten. Ik heb ook veel gehad aan klasgenootjes die me konden helpen als ik een vraag had. 
