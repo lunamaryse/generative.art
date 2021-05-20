@@ -47,6 +47,8 @@ In deze versie heb ik de grafiek gemaakt en de lengte van de bars gebaseer op de
 ![IMG_1074](https://user-images.githubusercontent.com/55750162/118953858-7e7ab480-b95d-11eb-9717-ac8efb9ea33c.jpg)
 
 ## Versie 2
+<img width="888" alt="Schermafbeelding 2021-05-20 om 12 59 28" src="https://user-images.githubusercontent.com/55750162/118967610-39f61580-b96b-11eb-85e8-b1d0522a7c8a.png">
+<img width="521" alt="Schermafbeelding 2021-05-20 om 12 59 49" src="https://user-images.githubusercontent.com/55750162/118967645-45494100-b96b-11eb-8ee3-98edd4b7fed8.png">
 
 
 ## Bronnen
