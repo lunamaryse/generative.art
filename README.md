@@ -47,9 +47,20 @@ In deze versie heb ik de grafiek gemaakt en de lengte van de bars gebaseer op de
 ![IMG_1074](https://user-images.githubusercontent.com/55750162/118953858-7e7ab480-b95d-11eb-9717-ac8efb9ea33c.jpg)
 
 ## Versie 2
+In deze versie heb ik er dankzij Danny voor kunnen zorgen dat er een random balk geselecteerd wordt. Ik heb er zelf voor gezorgd dat deze balk een andere kleur krijgt. Danny heeft me ook op weg geholpen met het distantiëren van de ellipses op basis van de geselecteerde data.
+
 <img width="888" alt="Schermafbeelding 2021-05-20 om 12 59 28" src="https://user-images.githubusercontent.com/55750162/118967610-39f61580-b96b-11eb-85e8-b1d0522a7c8a.png">
 <img width="521" alt="Schermafbeelding 2021-05-20 om 12 59 49" src="https://user-images.githubusercontent.com/55750162/118967645-45494100-b96b-11eb-8ee3-98edd4b7fed8.png">
 
+## Versie 3
+Dit is mijn eindproduct, deze licht ik verder toe in de video. 
+
+<img width="582" alt="Schermafbeelding 2021-05-20 om 13 02 37" src="https://user-images.githubusercontent.com/55750162/118967969-a96c0500-b96b-11eb-9e6c-a40edf82f517.png">
+<img width="537" alt="Schermafbeelding 2021-05-20 om 13 02 58" src="https://user-images.githubusercontent.com/55750162/118968013-b557c700-b96b-11eb-86bc-2eca7872b10d.png">
+<img width="622" alt="Schermafbeelding 2021-05-20 om 13 03 33" src="https://user-images.githubusercontent.com/55750162/118968092-ca345a80-b96b-11eb-8e8f-bad890d9bc23.png">
+
+## Interactie
+De gebruiker kan het kunswerk veranderen door te refreshen. Er wordt dan een ander stuk data geselecteerd. Door te hoveren over ellipses komt de datum van het geselecteerde besmettingscijfer in beeld.
 
 ## Bronnen
 Ik heb erg veel aan de p5.js website (examples) en de filmpjes van Daniel Shiffman. Ik heb meerdere examples bekeken en getest om te leren begrijpen hoe P5.js werkt. Aan de hand van examples, veel googelen en testen heb ik mijn kunstwerk in elkaar proberen te zetten. Ik heb ook veel gehad aan klasgenootjes die me konden helpen als ik een vraag had. 
@@ -58,24 +69,3 @@ Ik heb erg veel aan de p5.js website (examples) en de filmpjes van Daniel Shiffm
 - https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi
 - Feedback van klasgenoten (Alisha, Bryan)
 - Danny
-
-<h2>Concept</h2>
- <p><code>Beschrijf in het algemeen je concept van je project.</code></p>
- <h2>Features</h2>
- <p><code>Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?</code></p>
- <h2>Onderzoek &amp; inspiratie</h2>
- <p><code>Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?</code></p>
- <h2>Voortang</h2>
- <p><code>Schrijf hier een klein logboekje met je voortgang per week.</code></p>
- <h3>Week-1</h3>
- <p><code>Wat heb je gedaan? Wat ging goed? Wat kon beter?</code></p>
- <h3>Week-2</h3>
- <p><code>Wat heb je gedaan? Wat ging goed? Wat kon beter?</code></p>
- <h3>Week-3</h3>
- <p><code>Wat heb je gedaan? Wat ging goed? Wat kon beter?</code></p>
- <h2>Bronnenlijst</h2>
- <ul>
- <li><code>Link naar bron 1</code></li>
- <li><code>Link naar bron 2</code></li>
- <li><code>Link naar bron 3</code></li>
- </ul>
